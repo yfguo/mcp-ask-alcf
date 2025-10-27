@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "alcf": {
+      "command": "python",
+      "args": [
+        "/absolute/path/to/ask_alcf_mcp.py"
+      ],
+      "env": {}
+    }
+  }
+}
