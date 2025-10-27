@@ -115,4 +115,4 @@ If you encounter issues:
 
 ## License
 
-This is a simple automation script for educational and research purposes.
+This code uses MIT license (see LICENSE).
